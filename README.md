@@ -3,7 +3,7 @@
 
 ***
 
-### A successful hybrid child of the Meddlying Virtuoso and the Chordified GTP2 Piano.
+### A successful hybrid child of the Meddleying VIRTUOSO and the Chordified GTP2 Piano.
 
 ***
 
