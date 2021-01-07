@@ -1,5 +1,5 @@
 # Intelligent-VIRTUOSO
-## "Music never allows falsehoods because even the deaf hear flat notes!" ---IV
+## "Music never allows falsehoods for even the deaf hear flat notes!" ---IV
 
 ***
 
