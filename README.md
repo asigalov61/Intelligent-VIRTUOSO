@@ -7,9 +7,13 @@
 
 ***
 
-#### Plays very well and produces very nice music compositions with the right tuning/dataset.
+### Plays very well and produces very nice music compositions with the right tuning/dataset.
 
-#### Enjoy!
+### Enjoy!
+
+***
+
+### WARNING: This complete implementation represents a functioning model of the Artificial Intelligence. Please excercise great humility, care, and respect.
 
 ***
 
