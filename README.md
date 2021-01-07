@@ -1,9 +1,9 @@
 # Intelligent-VIRTUOSO
-## Artificial Intelligence (GPT2) version of the Meddleying VIRTUOSO
+## Music does not allow for falsehoods because even the deaf can hear flat notes ---Intelligent VIRTUOSO
 
 ***
 
-### A successful hybrid child of the [Meddleying VIRTUOSO](https://github.com/asigalov61/Meddleying-VIRTUOSO) and the [Chordified GTP2 Piano](https://github.com/asigalov61/Amazing-GPT2-Piano).
+### A successful Artificial Intelligence child of the [Meddleying VIRTUOSO](https://github.com/asigalov61/Meddleying-VIRTUOSO) and the [Chordified GTP2 Piano](https://github.com/asigalov61/Amazing-GPT2-Piano).
 
 ***
 
