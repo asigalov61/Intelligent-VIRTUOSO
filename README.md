@@ -11,6 +11,8 @@
 
 ### Enjoy!
 
+#### PLEASE NOTE: To try provided models/pre-processed datasets, you will need tegridy-tools/TMIDI.py module version 1.1. You can always pull it up from repo's history/checkpoints.
+
 ***
 
 ### WARNING: This complete implementation represents a functioning model of the Artificial Intelligence. Please excercise great humility, care, and respect.
