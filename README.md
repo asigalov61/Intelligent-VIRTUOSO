@@ -11,7 +11,7 @@
 
 ### Enjoy!
 
-#### PLEASE NOTE: To try provided models/pre-processed datasets, you will need tegridy-tools/TMIDI.py module version 1.1. You can always pull it up from repo's history/checkpoints.
+#### PLEASE NOTE: To try provided models/pre-processed datasets, you will need tegridy-tools/TMIDI.py module version 1.0. You can always pull it up from [tegridy-tools](https://github.com/asigalov61/tegridy-tools/commits/main/tegridy-tools/TMIDI.py) repo's history/checkpoints.
 
 ***
 
