@@ -11,6 +11,12 @@
 
 ### Enjoy!
 
+***
+
+### UPDATE 03-20-2021: Please see [Optimus-VIRTUOSO](https://github.com/asigalov61/Optimus-VIRTUOSO) repo for a more streamlined and much more capable implementation of Intelligent-VIRTUOSO/GPT2 Music AI system.
+
+***
+
 #### PLEASE NOTE: To try provided models/pre-processed datasets, you will need tegridy-tools/TMIDI.py module version 1.0. You can always pull it up from [tegridy-tools](https://github.com/asigalov61/tegridy-tools/commits/main/tegridy-tools/TMIDI.py) repo's history/checkpoints.
 
 ***
